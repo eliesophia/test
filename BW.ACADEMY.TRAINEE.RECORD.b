@@ -5,7 +5,7 @@
 SUBROUTINE BW.ACADEMY.TRAINEE.RECORD
 *-----------------------------------------------------------------------------
     !** Simple SUBROUTINE template
-* @author youremail@temenos.com
+* @autho123r youremail@temenos.com
 * @stereotype recordcheck
 * @package infra.eb
 * @uses E
